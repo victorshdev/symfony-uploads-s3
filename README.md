@@ -1,0 +1,1 @@
+Material for post: [Integrate VichBundle with Symfony](https://victorsh.dev/blog/integrate-vich-bundle-with-symfony)
